@@ -124,19 +124,6 @@ I specialize in building data-driven dashboards, automating reporting workflows,
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" />
-</p>
-
----
 
 ## 📬 Contact Me
 
